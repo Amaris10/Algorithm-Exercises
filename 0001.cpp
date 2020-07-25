@@ -1,4 +1,6 @@
-/*0001 abc(Çå»ª¸´ÊÔ)*/
+/* https://t.cn/E9WMRTE
+** abc ï¼ˆæ¸…åï¼‰
+*/
 #include<iostream>
 #include<cstdio>
  
