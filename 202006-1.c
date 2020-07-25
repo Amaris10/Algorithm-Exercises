@@ -1,3 +1,4 @@
+//http://118.190.20.162/view.page?gpid=T105
 #include <stdio.h>
 struct Node {
 	int x;
