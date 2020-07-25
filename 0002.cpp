@@ -1,5 +1,6 @@
-https://t.cn/E9WBrut
-/*反序数（清华）*/
+/* https://t.cn/E9WBrut
+** 反序数（清华）
+*/
 #include<iostream>
 #include<cstdio>
 
