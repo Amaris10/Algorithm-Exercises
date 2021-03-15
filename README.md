@@ -1,2 +1,4 @@
 # Algorithm-Exercises
-2020 宅家暑假刷题记
+刷题记
+
+包括CCF-CSP、POJ、HDU、高校考研机试（牛客网）
